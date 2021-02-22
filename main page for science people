@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+     
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="school assignment.css">
+    </head>
+    <body>
+        <h1>Science people and their contributions in STEM</h1>
+        <p>The people who made important contributions to the discovery of science and <br>
+        it's development will be listed here on this website.  This website will also <br>
+        tell you what the discoveries and scientific contributions are.</p><br><br>
+        <p>These people are:</p><br>
+        <ul>        
+            <li><a href= ""<button onclick="myFunction()">Rosalind Franklin</button><br>Made an important discovery
+                 to the structure of DNA</li>
+            <li><button onclick="myFunction()">Isaac Newton</button><br>Discovered gravity</li>
+            <li><button onclick="myFunction()">Janet Taylor</button><br>Designed and invented machines for 
+                maritime investigation</li>
+            <li><button onclick="myFunction()">Benjamin Franklin</button><br>Discovered gravity</li>
+            <li><button onclick="myFunction()">Sophia Louisa Jex-Blake</button><br>Fought to study 
+                medicine as she is also known as "one of the Edinburgh Seven".</li>
+            <li><button onclick="myFunction()">Albert Einstein</button><br>Won a Noble Prize in 1921 for his 
+                 work on theoretical physics and his discovery on photoelectric effect.</li>
+            <li><button onclick="myFunction()">Barbara McClintock</button><br>Won the Noble Prize for medicine
+                 or physiology in moving genetic segments in a DNA of a maize grain.</li>
+            <li><button onclick="myFunction()">Thomas Edison</button><br>Invented the lightbulb</li>
+            <li><button onclick="myFunction()">Grace Hopper</button><br>First woman to achieve PhD in maths
+                 and a pioneering computer programmer.</li>
+            <li><button onclick="myFunction()">Martin Karplus</button><br>Received a Noble Prize in Chemistry 2013 with 
+            Michael Levitt and Arieh Warshel building a <br>model that is multi-scale for complex chemical systems.</li>
+            <li><button onclick="myFunction()">Valentina Tereshkova</button><br>Third person and first woman
+                in space</li>
+            <li><button onclick="myFunction()">Wilhelm Rontgen</button><br>Awarded the Noble Prize in 1901 for the 
+            discovery of X-rays.</li>
+            <li><button onclick="myFunction()">Katherine Johnson</button><br>Pioneering physicist, mathematician
+                and space scientist</li>
+            <li><button onclick="myFunction()">Pierre Curie, Henri Becquerel, and Marie Curie</button><br>
+                Received a Noble Prize in 1903 for the discovery of radium.</li>
+            <li><button onclick="myFunction()">Radia Perlman</button><br>Internet pioneer</li>
+            <li><button onclick="myFunction()">David Baltimore</button><br>Won a Noble Prize in physiology/
+                medicine</li>
+            <li><button onclick="myFunction()">Adriana Ocampo</button><br>Planetary Geologist</li>
+            <li><button onclick="myFunction()">Stephen Hawking</button><br>Wrote a book about the physics of the black
+                 hole.</li>
+            <li><button onclick="myFunction()">Roberta Bondar</button><br>Astronaut Neurologist</li>
+        </ul>       
+                </body>
+                </html>
